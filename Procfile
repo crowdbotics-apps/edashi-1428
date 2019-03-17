@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT edashi_1428.wsgi:application
